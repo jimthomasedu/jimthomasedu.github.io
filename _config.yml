@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Go back to Homepage"
+title                    : "Back to Homepage"
 title_separator          : "-"
 name                     : &name "Jim Thomas"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qiu Yang"
+  name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jim Thomas"
   avatar           : "jim_zoom.jpg"
   bio              : "Dept of Mathematics, UNC Chapel Hill"
   location         : "jimthomas@unc.edu"
