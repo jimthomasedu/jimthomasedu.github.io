@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Go back to Homepage"
 title_separator          : "-"
-name                     : &name "Qiu Yang"
+name                     : &name "Jim Thomas"
 description              : &description "personal description"
-url                      : https://qiuyang50.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jimthomasedu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/qiuyang50/qiuyang50.github.io"
+repository               : "https://github.com/jimthomasedu/jimthomasedu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qiu Yang"
   avatar           : "QiuYang_zoom.jpg"
-  bio              : "Research Scientist at Pacific Northwest National Laboratory (PNNL), USA"
-  location         : "qiu.yang@pnnl.gov"
+  bio              : "Dept of Mathematics, UNC Chapel Hill"
+  location         : "jimthomas@unc.edu"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ"
+#  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ"
   email            : 
-  researchgate     : "https://www.researchgate.net/profile/Qiu_Yang4"
+ # researchgate     : "https://www.researchgate.net/profile/Qiu_Yang4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"qiuyang50"
+  github           : #"jimthomasedu"
   google_plus      :
   keybase          :
   instagram        :
