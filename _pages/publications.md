@@ -8,7 +8,9 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2021
 -
-[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520. PDF [PDF](https://qiuyang50.github.io/files/CV_QiuYang.pdf)
+[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520.  [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/blob/master/files/T16.pdf) 
+
+Summary: This paper examines interactions between fast inertia-gravity waves and slow balanced flows using asymptotic analysis. An evolution equation is derived for the slow dynamics to show that fast waves can energetically interact with balanced fields. In particular, an elegant toy model is developed in this paper to show that models that ignore fast wave dynamics can lead to wrong predictions on long time scales.
 
 [13] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: [A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml), Journal of the Atmospheric Sciences.
 
