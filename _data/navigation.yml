@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-#  - title: "Resource"
-#    url: /resource/
+  - title: "Teaching"
+    url: /teaching/
     
 #  - title: "Reading"
 #    url: /reading/
@@ -15,8 +15,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
