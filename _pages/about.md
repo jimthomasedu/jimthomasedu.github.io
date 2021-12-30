@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, my name is Qiu Yang. I am currently an earth scientist at PNNL (see my PNNL [webpage](https://www.pnnl.gov/atmospheric/staff/staff_info.asp?staff_num=10317)). Before this, I was a postdoctoral fellow working on the scale interactions of organized tropical convection, co-mentored by Profs. Andrew Majda (NYU), Boualem Khouider (Uvic), and Mitchell Moncrieff (NCAR). In 2017 spring, I obtained my Ph.D. degree of Mathematics and Atmosphere Ocean Science at [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/), Courant Institute of Mathematical Sciences, New York University.
+I am an Alfred T. Brauer research fellow at the mathematics department of UNC Chapel Hill. I received my PhD from the Courant Institute of Mathematical Sciences, New York University. Oliver Buhler and Shafer Smith were my PhD advisors. My research uses applied mathematical techniques and numerical simulations to explore geophysical fluid dynamics in an oceanographic setting. My work is aimed at improving our understanding of fundamental aspects of waves, turbulence, and their interactions in the ocean. Given below are my publications. Feel free to write to me at jimthomas@unc.edu.
 
-My current research focuses on two topics, including 1) developing theoretical models for the initiation of summer-time mesoscale convective systems over the central United States, and 2) developing a parameterization for convective momentum transport in the superparameterized Energy Exascale Earth System Model (E3SM). 
+#My current research focuses on two topics, including 1) developing theoretical models for the initiation of summer-time mesoscale convective systems over the central United States, and 2) developing a parameterization for convective momentum transport in the superparameterized Energy Exascale Earth System Model (E3SM). 
 
 Recent News
 -
