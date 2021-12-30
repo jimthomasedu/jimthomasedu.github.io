@@ -1,2 +1,2 @@
-# qiuyang50.github.io
-This is Qiu Yang's Homepage.
+# jimthomasedu.github.io
+This is the home page of Jim Thomas.
