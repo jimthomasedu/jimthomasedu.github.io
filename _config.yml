@@ -83,11 +83,11 @@ author:
   name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jim Thomas"
   avatar           : "jim_zoom.jpg"
   bio              : "Dept of Mathematics" \ "UNC Chapel Hill"
-  location         : "jimthomas@unc.edu"
+#  location         : "jimthomas@unc.edu"
   employer         : 
   pubmed           : 
 #  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MzMRC04AAAAJ"
-  email            : 
+  email            :  "jimthomas@unc.edu"
  # researchgate     : "https://www.researchgate.net/profile/Qiu_Yang4"
   uri              :
   bitbucket        :
