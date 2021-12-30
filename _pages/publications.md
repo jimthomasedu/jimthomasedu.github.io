@@ -8,6 +8,8 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2021
 -
+[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520. PDF [PDF](https://qiuyang50.github.io/files/CV_QiuYang.pdf)
+
 [13] **Qiu Yang***, Ruby Leung, Zhe Feng, Fengfei Song, Xingchao Chen, 2021: [A Simple Lagrangian Parcel Model for the Initiation of Summer-time MCSs over the Central US](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0136.1/JAS-D-21-0136.1.xml), Journal of the Atmospheric Sciences.
 
 [12] Xingchao Chen*, L. Ruby Leung, Zhe Feng, Fengfei Song, **Qiu Yang**, 2021: [Mesoscale Convective Systems Dominate the Energetics of the South Asian Summer Monsoon Onset](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094873), Geophysical Research Letters. 
