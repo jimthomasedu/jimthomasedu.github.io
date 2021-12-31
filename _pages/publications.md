@@ -8,7 +8,13 @@ All my publications can be found at [Google Scholar](https://scholar.google.com/
 
 2021
 -
-[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520.  [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/blob/master/files/T16.pdf) 
+[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520.  [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/files/T16.pdf) 
+
+Summary: This paper examines interactions between fast inertia-gravity waves and slow balanced flows using asymptotic analysis. An evolution equation is derived for the slow dynamics to show that fast waves can energetically interact with balanced fields. In particular, an elegant toy model is developed in this paper to show that models that ignore fast wave dynamics can lead to wrong predictions on long time scales.
+
+[2] J. Thomas, K. S. Smith and O. Buhler 2017: Near-inertial wave dispersion by geostrophic flows J. Fluid. Mech., 817: 406-438. [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/blob/master/files/TSB17.pdf) 
+
+Summary: This paper investigates interactions between near-inertial waves and mesoscale eddies using asymptotic analysis and three dimensional numerical simulations. It is shown that reduced asymptotic models can capture intricate features of the near-inertial waves, thus substituting complex and expensive three dimensional equations.
 
 Summary: This paper examines interactions between fast inertia-gravity waves and slow balanced flows using asymptotic analysis. An evolution equation is derived for the slow dynamics to show that fast waves can energetically interact with balanced fields. In particular, an elegant toy model is developed in this paper to show that models that ignore fast wave dynamics can lead to wrong predictions on long time scales.
 
