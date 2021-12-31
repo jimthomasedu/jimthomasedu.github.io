@@ -10,9 +10,6 @@ redirect_from:
 <!--{% include base_path %}
 Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). -->
 
-## Research experience
-
-
 
 ###  Alfred T. Brauer postdoctoral fellow (Dec 2019 - Present) 
  Department of Mathematics, University of North Carolina at Chapel Hill
