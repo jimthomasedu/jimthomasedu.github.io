@@ -9,7 +9,7 @@ author_profile: true
 2021
 -  -->
 
-[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520.  [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/T16.pdf) 
+**[1] J. Thomas 2016 : Resonant fast-slow interactions and breakdown of quasi-geostrophy in rotating shallow water, J. Fluid. Mech., 788: 492-520.**  [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/T16.pdf) 
 
 Summary: This paper examines interactions between fast inertia-gravity waves and slow balanced flows using asymptotic analysis. An evolution equation is derived for the slow dynamics to show that fast waves can energetically interact with balanced fields. In particular, an elegant toy model is developed in this paper to show that models that ignore fast wave dynamics can lead to wrong predictions on long time scales.
 
