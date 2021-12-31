@@ -10,7 +10,7 @@ redirect_from:
 <!--{% include base_path %}
 Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). -->
 
-Professional experience
+Research experience
 -
 ### Alfred T. Brauer postdoctoral fellow (Dec 2019 - Present) 
 * Department of Mathematics,
@@ -28,6 +28,9 @@ Professional experience
 
 ### Visiting scientist (Sep - Nov 2017)  
 * Center for Nonlinear Studies, Los Alamos National Lab, New Mexico
+
+### Ph.D in Mathematics and Atmosphere Ocean Science (Oct 2017)
+* Courant Institute of Mathematical Sciences, New York University, New York
 
 <!-- Education
 -
