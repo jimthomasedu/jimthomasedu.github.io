@@ -3,33 +3,33 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: 
   - /resume
 ---
 
 <!--{% include base_path %}
 Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). -->
 
-Research experience
+## Research experience
 -
 ###  Alfred T. Brauer postdoctoral fellow (Dec 2019 - Present) 
  Department of Mathematics,
   University of North Carolina at Chapel Hill
 
 ### Postdoctoral Scholar (Jan 2018 - Nov 2019) 
-* Woods Hole Oceanographic Institution and Department of Oceanography, Dalhousie University
+ Woods Hole Oceanographic Institution and Department of Oceanography, Dalhousie University
 
 ### David Crighton fellow (Jan - Mar 2019)  
-* Dept. of Applied Mathematics and Theoretical Physics University of Cambridge, Cambridge, England
+ Dept. of Applied Mathematics and Theoretical Physics University of Cambridge, Cambridge, England
 
 ### Staff member (Jun - Aug 2018, 2019)  
-* Geophysical Fluid Dynamics Program Woods Hole Oceanographic Institution
+ Geophysical Fluid Dynamics Program Woods Hole Oceanographic Institution
 
 ### Visiting scientist (Sep - Nov 2017)  
-* Center for Nonlinear Studies, Los Alamos National Lab, New Mexico
+ Center for Nonlinear Studies, Los Alamos National Lab, New Mexico
 
 ### Ph.D in Mathematics and Atmosphere Ocean Science (Oct 2017)
-* Courant Institute of Mathematical Sciences, New York University, New York
+ Courant Institute of Mathematical Sciences, New York University, New York
 
 <!-- Education
 -
