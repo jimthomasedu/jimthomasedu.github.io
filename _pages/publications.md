@@ -29,15 +29,15 @@ Summary: Numerical simulations and multiple asymptotic models are used to invest
 
 Summary: A new reduced model is derived in this paper to capture the interaction of surface gravity waves with bottom topography. The new model is capable of capturing complex and intricate features of the wave field, such as wave focusing and scattering, these being compared with high resolution numerical simulations of three dimensional nonlinear water wave equations.
 
-[6] **J. Thomas and R. Yamada 2019: Geophysical turbulence dominated by inertia-gravity waves. J. Fluid. Mech., 875: 71-100.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TY19.pdf) 
+**[6] J. Thomas and R. Yamada 2019: Geophysical turbulence dominated by inertia-gravity waves. J. Fluid. Mech., 875: 71-100.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TY19.pdf) 
 
 Summary: Inspired by recent observations and global-scale simulations that show the dominance of low-mode internal tides at 100 km scales in certain oceanic regions, this paper examines the effect of high frequency inertia-gravity waves on small Rossby number geostrophic turbulence. We uncover a new geophysical turbulence phenomenology in wave dominated regions and thereby expand the scope of two-mode quasi-geostrophic turbulence by including low-mode internal tides in the turbulence paradigm.
 
-[7] **J. Thomas and S. Arun 2020: Near-inertial waves and geostrophic turbulence. Phys. Rev. Fluids, 5, 014801.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TA20.pdf) 
+**[7] J. Thomas and S. Arun 2020: Near-inertial waves and geostrophic turbulence. Phys. Rev. Fluids, 5, 014801.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TA20.pdf) 
 
 Summary: The two-mode quasi-geostrophic model is the holy grail of geophysical turbulence in the small Rossby number regime. Yet it completely excludes high energy near-inertial waves which are ubiquitous in the upper ocean. In this paper we expand the scope of two-mode geostrophic turbulence by including high energy near-inertial waves. The paper explains how near-inertial waves can significantly alter the well established quasi-geostrophic turbulence paradigm.
 
-[8] **J. Thomas and D. Daniel 2020: Turbulent exchanges between near- inertial waves and balanced flows J. Fluid. Mech. 902, A7.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TD20.pdf) 
+**[8] J. Thomas and D. Daniel 2020: Turbulent exchanges between near- inertial waves and balanced flows J. Fluid. Mech. 902, A7.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TD20.pdf) 
 
 Summary: The strength of wind generated near-inertial waves and balanced flow varies both geographically and seasonally over the world’s oceans. In this paper we use high resolution numerical simulations of the three dimensional Boussinesq equations to examine directions of energy flow in turbulent interactions between waves and balanced flows. The manuscript describes how wave-balance energy flow pathways change as a function of relative strengths of wave and balanced fields. Depending on the balance-to-wave energy ratio, near-inertial waves can act as an energy sink or energy source for the geostrophic balanced flow.
 
