@@ -7,30 +7,29 @@ redirect_from:
   - /resume
 ---
 
-<!--{% include base_path %}-->
-Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). 
+<!--{% include base_path %}
+Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). -->
 
-Employment
+Professional experience
 -
-### (2020 Sep.-present) Research Scientist
-* Computational Climate Science Group, Earth & Biological Sciences Directorate, Pacific Northwest National Laboratory (PNNL), USA
-* Address: 902 Battelle Blvd, Richland, WA 99354
+### Alfred T. Brauer postdoctoral fellow (Dec 2019 - Present) 
+* Department of Mathematics,
+  University of North Carolina at Chapel Hill
+<!--* Address: 902 Battelle Blvd, Richland, WA 99354 -->
 
-### (2018 Mar.-May) Academic Visitor
-* Atmospheric Modeling & Predictability Section of Climate and Global Dynamics Laboratory, National Center for Atmospheric Research (NCAR), USA
-* Host: Mitchell Moncrieff
+### Postdoctoral Scholar (Jan 2018 - Nov 2019) 
+* Woods Hole Oceanographic Institution and Department of Oceanography, Dalhousie University
 
-### (2017 Sep.-Dec., 2019 May-Jul.) Academic Visitor
-* Department of Mathematics and Statistics, University of Victoria (UVic), Canada
-* Host: Boualem Khouider
+### David Crighton fellow (Jan - Mar 2019)  
+* Dept. of Applied Mathematics and Theoretical Physics University of Cambridge, Cambridge, England
 
-### (2017 Jul.-2020 Aug.) Postdoc Associate
-* Center for Atmosphere Ocean Science, Courant Institute, New York University, USA
-* Funding source: Center for Prototype Climate Modeling in NYU Abu Dhabi, UAE
-* Research Topic: Upscale Impact of Mesoscale Convective Systems on Tropical Weather and Climate
-* Co-mentored by Andrew Majda (NYU), Boualem Khouider (UVic) and Mitchell Moncrieff (NCAR)
+### Staff member (Jun - Aug 2018, 2019)  
+* Geophysical Fluid Dynamics Program Woods Hole Oceanographic Institution
 
-Education
+### Visiting scientist (Sep - Nov 2017)  
+* Center for Nonlinear Studies, Los Alamos National Lab, New Mexico
+
+<!-- Education
 -
 ### (2012 fall--2017 spring) Ph.D. in Mathematics and Atmosphere and Ocean Sciences
 * Center for Atmosphere Ocean Science, Courant Institute, New York University, NY, USA
@@ -42,7 +41,7 @@ Education
 * Thesis: Optimal Transport of Water in the Biological Network
 * Thesis Advisor: David Cai (Courant, NYU) and Dan Hu (SJTU)
 
-<!--
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
