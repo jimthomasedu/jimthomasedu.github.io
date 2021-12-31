@@ -12,10 +12,9 @@ Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYa
 
 Research experience
 -
-### Alfred T. Brauer postdoctoral fellow (Dec 2019 - Present) 
-* Department of Mathematics,
+### * Alfred T. Brauer postdoctoral fellow (Dec 2019 - Present) 
+ Department of Mathematics,
   University of North Carolina at Chapel Hill
-<!--* Address: 902 Battelle Blvd, Richland, WA 99354 -->
 
 ### Postdoctoral Scholar (Jan 2018 - Nov 2019) 
 * Woods Hole Oceanographic Institution and Department of Oceanography, Dalhousie University
