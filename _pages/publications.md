@@ -37,9 +37,15 @@ Summary: Inspired by recent observations and global-scale simulations that show 
 
 Summary: The two-mode quasi-geostrophic model is the holy grail of geophysical turbulence in the small Rossby number regime. Yet it completely excludes high energy near-inertial waves which are ubiquitous in the upper ocean. In this paper we expand the scope of two-mode geostrophic turbulence by including high energy near-inertial waves. The paper explains how near-inertial waves can significantly alter the well established quasi-geostrophic turbulence paradigm.
 
-**[8] J. Thomas and D. Daniel 2020: Turbulent exchanges between near- inertial waves and balanced flows J. Fluid. Mech. 902, A7.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TD20.pdf) 
+**[8] J. Thomas and D. Daniel 2020: Turbulent exchanges between near-inertial waves and balanced flows J. Fluid. Mech. 902, A7.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TD20.pdf) 
 
 Summary: The strength of wind generated near-inertial waves and balanced flow varies both geographically and seasonally over the world’s oceans. In this paper we use high resolution numerical simulations of the three dimensional Boussinesq equations to examine directions of energy flow in turbulent interactions between waves and balanced flows. The manuscript describes how wave-balance energy flow pathways change as a function of relative strengths of wave and balanced fields. Depending on the balance-to-wave energy ratio, near-inertial waves can act as an energy sink or energy source for the geostrophic balanced flow.
+
+
+**[9] J. Thomas and D. Daniel 2021: Forward flux and enhanced dissipation of geostrophic balanced energy J. Fluid. Mech. 911, A60.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TD21.pdf) 
+
+Summary: Flows in the ocean is a mixture of fast evolving internal gravity waves and slowly evolving gesotrophic vortices. Oceanographers often speculate that internal gravity waves could form an energy sink for the geostrophic balanced flow. This paper illustrates a mechanism by which internal waves can trigger a forward flux of balanced energy and explains that the direction of wave-balance energy exchange is senitive to the parameter regime. Table 2 in the paper lists the summary of wave-balance energy exchanges in different regimes. 
+
 
 <!-- Non-peer reviewed publication
 -
