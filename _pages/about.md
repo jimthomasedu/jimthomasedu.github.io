@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Alfred T. Brauer research fellow at the mathematics department of UNC Chapel Hill. I received my PhD from the Courant Institute of Mathematical Sciences, New York University. Oliver Buhler and Shafer Smith were my PhD advisors. My research uses applied mathematical techniques and numerical simulations to explore geophysical fluid dynamics in an oceanographic setting. My work is aimed at improving our understanding of fundamental aspects of waves, turbulence, and their interactions in the ocean. Given below are my publications. Feel free to write to me at jimthomas@unc.edu.
+I am a faculty at International Centre for Theoretical Sciences, Tata Institute of Fundamental Research and Centre for Applicable Mathematics, Tata Institute of Fundamental Research. I received my PhD from the Courant Institute of Mathematical Sciences, New York University. Oliver Buhler and Shafer Smith were my PhD advisors. My research uses applied mathematical techniques and numerical simulations to explore geophysical fluid dynamics in an oceanographic setting. My work is aimed at improving our understanding of fundamental aspects of waves, turbulence, and their interactions in the ocean. 
+
+<!Feel free to write to me at jimthomas@icts.res.in or jimthomas@tifrbng@res.in.
 
 ---
 
