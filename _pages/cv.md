@@ -11,7 +11,7 @@ redirect_from:
 Here is a complete version of my [CV](https://qiuyang50.github.io/files/CV_QiuYang.pdf). -->
 
 
-###  Alfred T. Brauer research fellow (Dec 2019 - Present) 
+###  Alfred T. Brauer research fellow (Dec 2019 - Dec 2021) 
  Department of Mathematics, University of North Carolina at Chapel Hill
 
 ### Postdoctoral Scholar (Jan 2018 - Nov 2019) 
