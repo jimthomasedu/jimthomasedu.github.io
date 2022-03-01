@@ -11,7 +11,7 @@ I am a faculty at International Centre for Theoretical Sciences, Tata Institute 
 
 I received my PhD from the Courant Institute of Mathematical Sciences, New York University. Oliver Buhler and Shafer Smith were my PhD advisors. 
 
-My research uses applied mathematical techniques and numerical simulations to explore geophysical fluid dynamics in an oceanographic setting. My work is aimed at improving our understanding of fundamental aspects of waves, turbulence, and their interactions in the ocean. 
+My research uses applied mathematical techniques and numerical simulations to explore geophysical fluid dynamics in an oceanographic setting. My work is aimed at improving our understanding of fundamental aspects of waves, turbulence, and their interactions in the ocean. My publications are included on this webpage and I can be reached at jimthomas@icts.res.in or jimthomas@tifrbng@res.in.
 
 <!-- Feel free to write to me at jimthomas@icts.res.in or jimthomas@tifrbng@res.in.
 
