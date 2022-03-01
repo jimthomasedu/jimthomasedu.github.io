@@ -47,6 +47,13 @@ Summary: The strength of wind generated near-inertial waves and balanced flow va
 Summary: Flows in the ocean is a mixture of fast evolving internal gravity waves and slowly evolving gesotrophic vortices. Oceanographers often speculate that internal gravity waves could form an energy sink for the geostrophic balanced flow. This paper illustrates a mechanism by which internal waves can trigger a forward flux of balanced energy and explains that the direction of wave-balance energy exchange is senitive to the parameter regime. Table 2 in the paper lists the summary of wave-balance energy exchanges in different regimes. 
 
 
+**[10] J. Thomas and A. Gupta 2022: Wave-enhanced tracer dispersion JGR Oceans 127, e2020JC017005.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TG22.pdf) 
+
+Summary: Internal gravity waves are often considered to be inefficient in stirring tracers in the ocean. This paper shows that waves can modify the slow balanced flow, which then stirs tracers more efficiently when compared to tracer stirring by a balanced flow in the absence of waves. Figure 8 shows a schematic of the main result of the paper. 
+
+ 
+ 
+
 <!-- Non-peer reviewed publication
 -
 Qiu Yang, 2017: [Multi-Scale Models for the Scale Interaction of Organized Tropical Convection](https://qiuyang50.github.io/files/thesis.pdf), Ph.D thesis. My thesis defense slides are [here](https://qiuyang50.github.io/files/QiuYang_Thesis.pdf).
