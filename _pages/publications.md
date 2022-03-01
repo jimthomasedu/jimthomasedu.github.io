@@ -49,7 +49,7 @@ Summary: Flows in the ocean is a mixture of fast evolving internal gravity waves
 
 **[10] J. Thomas and A. Gupta 2022: Wave-enhanced tracer dispersion JGR Oceans 127, e2020JC017005.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TG22.pdf) 
 
-Summary: Internal gravity waves are often considered to be inefficient in stirring tracers in the ocean. This paper shows that waves can modify the slow balanced flow, which then stirs tracers more efficiently when compared to tracer stirring by a balanced flow in the absence of waves. Figure 8 shows a schematic of the main result of the paper. 
+Summary: Internal gravity waves are often considered to be inefficient in stirring tracers in the ocean. This paper shows that waves can modify the slow balanced flow, which then stirs tracers more efficiently when compared to tracer stirring by a balanced flow in the absence of waves. Therefore waves can indirectly enhance tracer stirring in the ocean. Figure 8 shows a schematic of the main result of the paper. 
 
  
  
