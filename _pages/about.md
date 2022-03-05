@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a faculty at International Centre for Theoretical Sciences, Tata Institute of Fundamental Research and Centre for Applicable Mathematics, Tata Institute of Fundamental Research. I received my PhD in Mathematics and Atmosphere Ocean Science from the Courant Institute of Mathematical Sciences, New York University. Oliver Buhler and Shafer Smith were my PhD advisors. 
+I am a faculty member at International Centre for Theoretical Sciences, Tata Institute of Fundamental Research and Centre for Applicable Mathematics, Tata Institute of Fundamental Research. I received my PhD in Mathematics and Atmosphere Ocean Science from the Courant Institute of Mathematical Sciences, New York University. Oliver Buhler and Shafer Smith were my PhD advisors. 
 
-My research focusses on understanding fluid dynamics of the world's oceans. Oceanic flows span ten decades of spatial scales and eight decades of temporal scales, making it challenging to comprehend. Oceanic observations are sparse and direct numerical simulations resolving of all relevant scales is next to impossible with present computational capabilities. These challenges	 call for innovative means to study flows in the world's oceans. I use a combination of applied mathematical techniques, idealized mathematical models, and scale-specific numerical integration of governing equations to understand intricate details of oceanic flows. My present work addresses energetic wave-balance exchanges, energy flow pathways in wave turbulence, tracer dispersion, and submesoscale turbulence. My publications are included on this webpage and I can be reached at jimthomas@icts.res.in or jimthomas@tifrbng@res.in.   
+My research focusses on understanding fluid dynamics of the world's oceans. Oceanic flows span ten decades of spatial scales and eight decades of temporal scales, making it challenging to comprehend. Oceanic observations are sparse and direct numerical simulations resolving of all relevant scales is next to impossible with present computational capabilities. These challenges	 call for innovative means to study flows in the world's oceans. I use a combination of applied mathematical techniques, idealized mathematical models, and scale-specific numerical integration of governing equations to understand intricate details of oceanic flows. My present work addresses energetic wave-balance exchanges, energy flow pathways in wave turbulence, tracer dispersion, and submesoscale turbulence. 
+
+My publications are included on this webpage and I can be reached at jimthomas@icts.res.in or jimthomas@tifrbng@res.in.   
 
 
 <!-- Feel free to write to me at jimthomas@icts.res.in or jimthomas@tifrbng@res.in.
