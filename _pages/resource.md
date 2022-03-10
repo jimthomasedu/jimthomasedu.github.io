@@ -5,7 +5,7 @@ permalink: /resource/
 author_profile: true
 ---
 
-# I am looking for students interested in working on geophysical turbulence.  
+ I am looking for students to work with. Get in touch if you're interested in working on geophysical turbulence.  
 
 
 <!-- ## I am looking for students interested in working on geophysical turbulence.  
