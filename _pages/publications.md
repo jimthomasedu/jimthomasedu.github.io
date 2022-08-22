@@ -52,7 +52,8 @@ Summary: Flows in the ocean is a mixture of fast evolving internal gravity waves
 Summary: Internal gravity waves are often considered to be inefficient in stirring tracers in the ocean. This paper shows that waves can modify the slow balanced flow, which then stirs tracers more efficiently when compared to tracer stirring by a balanced flow in the absence of waves. Therefore waves can indirectly enhance tracer stirring in the ocean. Figure 8 shows a schematic of the main result of the paper. 
 
 
-**[11] J. Thomas and R. Vishnu 2022: Turbulent transition of a flow from small to O(1) Rossby numbers (To appear in J. Phys. Oceanography).** <!--[PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/TV22.pdf)--!>
+**[11] J. Thomas and R. Vishnu 2022: Turbulent transition of a flow from small to O(1) Rossby numbers (To appear in J. Phys. Oceanography).** 
+
 
 Summary: This paper examines the effect of a low energy unbalanced perturbation on an energetic balanced flow as a function of Rossby number.  Erosion of coherent vortices, persistence of cyclonic vortices over anticyclonic vortices, increased forward flux and enhanced dissipation of the flow energy are notable features seen as Rossby number increases. The study finds a striking result that even a small unbalanced perturbation can do increasingly more damage to the balanced flow as Rossby number increases from asymptotically small to O(1) values.
 
