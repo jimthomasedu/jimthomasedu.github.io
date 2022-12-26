@@ -5,7 +5,14 @@ permalink: /resource/
 author_profile: true
 ---
 
- I am looking for students to work with. Get in touch if you're interested in working on geophysical turbulence.  
+I am looking for strongly motivated students and postdocs to work on problems at the interface of geophysical fluid dynamics, applied mathematics, and high resolution numerical simulations. If you are looking for a job, write to me with your detailed academic CV. I am at present looking for:
+
+1) Postdoctoral fellow: should have a PhD (or close to submitting thesis) with substantial computational experience.
+
+2) PhD students: students enrolled at ICTS-TIFR or TIFR-CAM are welcome. 
+ 
+3) Undergraduate students close to completing their degree. Should have reasonable understanding of fluid mechanics and must have interest in computational work. 
+ 
 
 
 <!-- ## I am looking for students interested in working on geophysical turbulence.  
