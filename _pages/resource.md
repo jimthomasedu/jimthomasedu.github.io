@@ -7,7 +7,7 @@ author_profile: true
 
 I am looking for strongly motivated students and postdocs to work on problems at the interface of geophysical fluid dynamics, applied mathematics, and high resolution numerical simulations. If you are looking for a job, write to me with your detailed academic CV. I am at present looking for:
 
-1) Postdoctoral fellow: should have a PhD (or close to submitting thesis) with substantial computational experience in HPC environment.
+1) ** Postdoctoral fellow: ** should have a PhD (or close to submitting thesis) with substantial computational experience in HPC environment.
 
 2) PhD students: students enrolled at ICTS-TIFR or TIFR-CAM are welcome. 
  
