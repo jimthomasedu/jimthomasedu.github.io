@@ -11,7 +11,7 @@ I am looking for strongly motivated students and postdocs to work on problems at
 
 2) PhD students: students enrolled at ICTS-TIFR or TIFR-CAM are welcome. 
  
-3) Undergraduate students close to completing their degree. Should have reasonable understanding of fluid mechanics and must have interest in computational work. 
+3) Undergraduate students: must be close to completing their degree and should have reasonable understanding of fluid mechanics and must have interest in computational work. 
  
 
 
