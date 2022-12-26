@@ -5,7 +5,7 @@ permalink: /resource/
 author_profile: true
 ---
 
-I am looking for strongly motivated students and postdocs to work on problems at the interdisciplinary intersection of geophysical fluid dynamics, applied mathematics, and high resolution numerical simulations. Look at the publications page to get an idea of the kind of research I'm involved in. If you are looking for a job, write to me with your detailed academic CV. I am at present looking for:
+I am looking for strongly motivated students and postdocs to work on problems at the interdisciplinary intersection of geophysical fluid dynamics, applied mathematics, and high resolution numerical simulations. Look at the publications page to get an idea of the kind of research I'm involved in. If you are looking for a job in my area of research, write to me with your detailed academic CV. I am at present looking for:
 
 1) **Postdoctoral fellow:** should have a PhD (or close to submitting thesis) with substantial computational experience in HPC environment.
 
