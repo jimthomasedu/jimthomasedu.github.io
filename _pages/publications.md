@@ -60,7 +60,7 @@ Summary: This paper examines the effect of a low energy unbalanced perturbation 
 **[12] J. Thomas and L. Ding 2023: Upscale transfer of waves in one dimensional rotating shallow water (To appear in J. Fluid Mech.)** 
 
 
-Summary: This paper shows that waves in rotating shallow water can exhibit an inverse flux due to conservation of wave action along with wave energy. Comparisons are made between theoretical predictions based on wave turbulence theory and direct numerical simulation results. The results point out that intermittency and non-Gaussian effects leads to solutions that are different from those predicted by wave turbulence theory.
+Summary: This paper shows that waves in rotating shallow water can exhibit an inverse flux due to conservation of wave action along with wave energy. Comparisons are made between theoretical predictions based on wave turbulence theory and direct numerical simulation results. The results point out that intermittency and non-Gaussian effects lead to solutions that are different from those predicted by wave turbulence theory.
 
  
  
