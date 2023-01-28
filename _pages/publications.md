@@ -57,6 +57,11 @@ Summary: Internal gravity waves are often considered to be inefficient in stirri
 
 Summary: This paper examines the effect of a low energy unbalanced perturbation on an energetic balanced flow as a function of Rossby number.  Erosion of coherent vortices, persistence of cyclonic vortices over anticyclonic vortices, increased forward flux and enhanced dissipation of the flow energy are notable features seen as Rossby number increases. The study finds a striking result that even a small unbalanced perturbation can do increasingly more damage to the balanced flow as Rossby number increases from asymptotically small to O(1) values.
 
+**[12] J. Thomas and L. Ding 2023: Upscale transfer of waves in one dimensional rotating shallow water (To appear in J. Fluid Mech.)** 
+
+
+Summary: This paper shows that waves in rotating shallow water can exhibit an inverse flux due to conservation of wave action along with wave energy. Comparisons are made between theoretical predictions based on wave turbulence theory and direct numerical simulation results. The results point out that intermittency and non-Gaussian effects leads to solutions that are different from those predicted by wave turbulence theory.
+
  
  
 
