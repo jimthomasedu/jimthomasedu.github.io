@@ -9,7 +9,7 @@ I am looking for strongly motivated students and postdocs to work on problems at
 
 1) **Postdoctoral fellow:** should have a PhD (or close to submitting thesis) with substantial computational experience in HPC environment.
 
-2) **PhD students:** students enrolled at ICTS-TIFR or TIFR-CAM are welcome. 
+2) **PhD students:** students enrolled at ICTS-TIFR and TIFR-CAM are welcome. 
  
 3) **Undergraduate and Masters students:** must be close to completing their degree, should have reasonable understanding of fluid mechanics, and must have interest in computational work. 
  
