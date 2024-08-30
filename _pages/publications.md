@@ -70,7 +70,7 @@ Summary: Bodies immersed in a stratified fluid can lead to the generation of a l
  **[14] J. Thomas 2023: Turbulent wave-balance exchanges in the ocean, Proc. R. Soc. A, 479, 20220565.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/T23.pdf)  
 
 
-Summary: This paper discusses theoretical, numerical, and observational results on internal waves interacting and exchnaging energy with geostrophically balanced flows in the ocean.   
+Summary: This paper discusses theoretical, numerical, and observational results on internal waves interacting and exchanging energy with geostrophically balanced flows in the ocean.   
 
 **[15] M. Sirohi and J. Thomas 2024: Passive tracer dispersion by idealized flows across rossby numbers. J. Phys. Oceanogr, 54, 1889–1902.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST24.pdf) 
 
