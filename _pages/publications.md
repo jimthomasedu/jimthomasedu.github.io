@@ -72,7 +72,7 @@ Summary: Bodies immersed in a stratified fluid can lead to the generation of a l
 
 Summary: This paper discusses theoretical, numerical, and observational results on internal waves interacting and exchanging energy with geostrophically balanced flows in the ocean.   
 
-**[15] M. Sirohi and J. Thomas 2024: Passive tracer dispersion by idealized flows across rossby numbers. J. Phys. Oceanogr, 54, 1889–1902.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST24.pdf) 
+**[15] M. Sirohi and J. Thomas 2024: Passive tracer dispersion by idealized flows across Rossby numbers. J. Phys. Oceanogr, 54, 1889–1902.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST24.pdf) 
 
  
 Summary: This paper describes the detailed physical and spectral space differences in how low Rossby number and O(1) Rossby number flows stir and disperse passive tracers. O(1) Rossby number submesoscale flows leads to more than an order of magnitude increase in downscale tracer flux along with a much steeper tracer variance spectrum, when compared to small Rossby number meoscale flows. 
