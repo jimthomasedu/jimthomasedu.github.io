@@ -77,7 +77,7 @@ Summary: This paper discusses theoretical, numerical, and observational results 
  
 Summary: This paper describes the phenomenological differences between low Rossby number and O(1) Rossby number flows in stirring and dispering passive tracers. O(1) Rossby number submesoscale flows leads to more than an order of magnitude increase in downscale tracer flux along with a much steeper tracer variance spectrum, when compared to small Rossby number mesoscale flows. 
 
-**[16] J. Thomas, R. S. Rajpoot, and P. Gupta 2023: The turbulent cascade of inertia-gravity waves in rotating shallow water (to appear in the J. Fluid Mech).**    
+**[16] J. Thomas, R. S. Rajpoot, and P. Gupta 2024: The turbulent cascade of inertia-gravity waves in rotating shallow water (to appear in the J. Fluid Mech).**    
 
 
  
