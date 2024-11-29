@@ -81,7 +81,7 @@ Summary: This paper describes the phenomenological differences between low Rossb
 
 Summary: Three-dimensional homogeneous isotropic turbulence (HIT) has several well known features such as locality of energy transfers across scales, intermittency, and finite time delay between large-scale and small-scale fluctuations. This paper shows that the turbulent cascade of inertia-gravity waves shares several such intriguing features of HIT, departing from popular asymptotic theories on turbulent wave transfers. 
 
-**[16] K. Gowthaman and J. Thomas 2024: S‐2DV: A new reduced model generating submesoscale‐like flows  Journal of Advances in Modeling Earth Systems, 16, e2024MS004438.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/GT24.pdf) 
+**[17] K. Gowthaman and J. Thomas 2024: S‐2DV: A new reduced model generating submesoscale‐like flows  Journal of Advances in Modeling Earth Systems, 16, e2024MS004438.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/GT24.pdf) 
 
 Summary: Oceanic mesoscale flows are characterized by asymptotically small Rossby numbers and this has led to the usage of the quasi-geostrophic (QG)  equation, a reduced single-equation model, for generating mesoscale flow dynamics. Oceanic submesoscales approach O(1) Rossby numbers and are often rich with unbalanced flow components, inhibiting the usage of reduced models like QG. This paper develops a new reduced model, S-2DV, capable of generating submesoscale flows that share several features of realistic submesoscale flows and compare well with complex ocean model-generated flows. 
 
