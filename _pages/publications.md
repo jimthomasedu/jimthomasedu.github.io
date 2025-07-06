@@ -87,11 +87,11 @@ Summary: Oceanic mesoscale flows are characterized by asymptotically small Rossb
 
 **[18] C. P. Sanjay and J. Thomas 2025: Enhanced passive tracer dispersion by an energetic internal wave continuum  JGR Oceans, 130, e2024JC021754.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST25.pdf) 
 
-Summary: This paper constructs different flow regimes by varying wave-balanced energy ratios. Advecting tracer fields by these flows reveal that O(1) amplitude internal waves forming an internal wave continuum can stir, downscale cascade, and dissipate tracers more efficiently than balanced flows of similar energy levels that are composed of cohernt vortices. 
+Summary: This paper constructs different flow regimes by varying wave-balanced energy ratio. Advecting tracer fields by these flows reveal that O(1) amplitude internal waves forming a broad spectrum of waves can stir, downscale cascade, and dissipate tracers more efficiently than balanced flows of similar energy levels that are composed of coherent vortices. 
 
 **[19] M. K. Bijay and J. Thomas 2025: Neural networks predicting submesoscale tracer dispersion.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/BT25.pdf) 
 
-Summary: Ocean states are described by the flow and tracers advected by the flow. Passive tracers equations are often integrated along with the flow equations in ocean models. This paper develops a new set of neural network models that can directly predict the tracer fields from the flow field. The neural network models do a great job predicting small scale features of tracers at submesoscales, tracer spectra, and flux. This approach is in general a great way to obtain tracer fields from the flow without integrating tracer advection equations, saving a lot of computational resources.
+Summary: Ocean states are described by the flow and tracers advected by the flow. Passive tracer equations are often integrated along with the flow equations in ocean models. This paper develops a new set of neural network models that can directly predict the tracer fields from the flow field. The neural network models do well at predicting small scale features of tracers at submesoscales, tracer spectra, and flux. This approach is in general a great way to obtain tracer fields from the flow without integrating tracer advection equations, saving a lot of computational resources.
 
 
  
