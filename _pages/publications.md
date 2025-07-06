@@ -91,7 +91,7 @@ Summary: This paper constructs different flow regimes by varying wave-balanced e
 
 **[19] M. K. Bijay and J. Thomas 2025: Neural networks predicting submesoscale tracer dispersion JGR Machine Learning and Computation, 2, e2025JH000655.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/BT25.pdf) 
 
-Summary: Ocean states are described by the flow and tracers advected by the flow. This requires numerically integrating partial differential equations governing passive tracer dynamics along with the flow equations. This paper develops a new set of neural network models that can directly predict the tracer fields from the flow fields. The neural network models do well at predicting small scale features of tracers at submesoscales, tracer variance spectra, and flux. This approach is in general a great way to obtain tracer fields from the flow without integrating tracer advection equations, saving a lot of computational resources.
+Summary: Ocean states are described by the flow and tracers advected by the flow. This requires numerically integrating partial differential equations governing tracer dynamics along with the flow equations. This paper develops a new set of neural network models that can directly predict the tracer fields from the flow fields. The neural network models do well at predicting small scale features of tracers at submesoscales, tracer variance spectra, and flux. This approach is in general a great way to obtain tracer fields from the flow without integrating tracer advection equations, saving a lot of computational resources.
 
 
  
