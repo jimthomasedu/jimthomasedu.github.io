@@ -83,7 +83,15 @@ Summary: Three-dimensional homogeneous isotropic turbulence (HIT) has several we
 
 **[17] K. Gowthaman and J. Thomas 2024: S‐2DV: A new reduced model generating submesoscale‐like flows  Journal of Advances in Modeling Earth Systems, 16, e2024MS004438.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/GT24.pdf) 
 
-Summary: Oceanic mesoscale flows are characterized by asymptotically small Rossby numbers and this has led to the usage of the quasi-geostrophic (QG)  equation, a reduced single-equation model, for generating mesoscale flow dynamics. Oceanic submesoscales approach O(1) Rossby numbers and are often rich with unbalanced flow components, inhibiting the usage of reduced models like QG. This paper develops a new reduced model, S-2DV, capable of generating submesoscale flows that share several features of realistic submesoscale flows and compare well with complex ocean model-generated flows. 
+Summary: Oceanic mesoscale flows are characterized by asymptotically small Rossby numbers and this has led to the usage of the quasi-geostrophic (QG)  equation, a reduced single-equation model, for generating mesoscale flow dynamics. Oceanic submesoscales approach O(1) Rossby numbers and are often rich with unbalanced flow components, inhibiting the usage of reduced models like QG. This paper develops a new reduced model, S-2DV, capable of generating submesoscale flows that share several features of realistic submesoscale flows and compare well with complex ocean model-generated flows.
+
+**[18] C. P. Sanjay and J. Thomas 2025: Enhanced passive tracer dispersion by an energetic internal wave continuum  JGR Oceans, 130, e2024JC021754.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST25.pdf) 
+
+Summary: This paper constructs different flow regimes by varying wave-balanced energy ratios. Advecting tracer fields by these flows reveal that O(1) amplitude internal waves forming an internal wave continuum can stir, downscale cascade, and dissipate tracers more efficiently than balanced flows of similar energy levels that are composed of cohernt vortices. 
+
+**[19] M. K. Bijay and J. Thomas 2025: Neural networks predicting submesoscale tracer dispersion.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/BT25.pdf) 
+
+Summary: Ocean states are described by the flow and tracers advected by the flow. Passive tracers equations are often integrated along with the flow equations in ocean models. This paper develops a new set of neural network models that can directly predict the tracer fields from the flow field. The neural network models do a great job predicting small scale features of tracers at submesoscales, tracer spectra, and flux. This approach is in general a great way to obtain tracer fields from the flow without integrating tracer advection equations, saving a lot of computational resources.
 
 
  
