@@ -93,7 +93,13 @@ Summary: This paper constructs different flow regimes by varying wave-balanced e
 
 Summary: Ocean states are described by the flow and tracers advected by the flow. This requires numerically integrating partial differential equations governing tracer dynamics along with the flow equations. This paper develops a new set of neural network models that can directly predict the tracer fields from the flow fields. The neural network models do well at predicting small scale features of tracers at submesoscales, tracer variance spectra, and flux. This approach is in general a great way to obtain tracer fields from the flow without integrating tracer advection equations, saving a lot of computational resources.
 
+**[20] J. Thomas, A. Hasan, R. S. Rajpoot: Inertial oscillations disintegrating coherent vortices J. Phys. Oceanogr., 56, 1605–1626.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/THR26.pdf) 
 
+Summary: Geostrophically balanced eddies contain a dominant share of the oceans kinetic energy and mechanisms by which these eddies break and transfer energy to small dissipative scales are a prominent area of interest. This paper finds the unbalanced energy levels needed to disintegrate the eddies at Rossby numbers varying from asymptotically small to O(1) Rossby numbers.
+
+**[21] D. R. Parida and J. Thomas 2026: New reduced mathematical models capture features of wave turbulence J. Fluid Mech. 1036, A46.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/PT26.pdf) 
+
+Summary: This paper develops new mathematical models for wave turbulence. By using different dispersion relationships and varying levels of nonlinearity, detailed pathways for energy transfer from large to small scales is resolved. These transfers take place via intermittent bursts of turbulence that appears as energetic coherent structures in the physical flow fields. 
  
 
 <!-- Non-peer reviewed publication
