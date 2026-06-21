@@ -100,6 +100,10 @@ Summary: Geostrophically balanced eddies contain a dominant share of the oceans 
 **[21] D. R. Parida and J. Thomas 2026: New reduced mathematical models capture features of wave turbulence J. Fluid Mech. 1036, A46.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/PT26.pdf) 
 
 Summary: This paper develops new mathematical models for wave turbulence. By using different dispersion relationships and varying levels of nonlinearity, detailed pathways for energy transfer from large to small scales are identified. These transfers take place via intermittent bursts of turbulence that appear as energetic coherent structures in the physical flow fields. 
+
+**[22] R. S. Rajpoot and J. Thomas 2026: Transition to turbulence induced by near-inertial wave–vortex interactions J. Fluid Mech. 1037, A33.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/RT26.pdf) 
+
+Summary: This paper explores the generation of fine-scale turbulent structures following the interaction of large-scale near-inertial waves and balanced eddies. Three different flow decomposition techniques are used to understand energy transfers between flow components and across scales in different parameter regimes.
  
 
 <!-- Non-peer reviewed publication
