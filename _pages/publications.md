@@ -107,7 +107,7 @@ Summary: This paper explores the generation of fine-scale turbulent structures f
 
 **[23] C. P. Sanjay and J. Thomas 2026: Irreversible stirring and mixing of tracers by oceanic internal gravity waves AGU Advances, 7, e2026AV002429.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST26.pdf) 
 
-Summary: Oceanic internal waves are often thought to be ineffective in stirring and mixing tracers. This paper shows that while a single plane wave does not stir tracers, two or more waves can laterally stir tracers. Stirring becomes more efficient with increasing number of waves and increasing wave energy. Kinematic and dynamic models are used to demonstrate the stirring and mixing effects of internal gravity waves. 
+Summary: Oceanic internal waves are often thought to be ineffective in stirring and mixing tracers. This paper shows that while a single plane wave does not stir tracers, two or more waves can laterally stir tracers. Stirring becomes more efficient with increasing number of waves and increasing wave energy. Kinematic and dynamic models are used to demonstrate the stirring and mixing effects of internal gravity waves in this study. 
   
 
 <!-- Non-peer reviewed publication
