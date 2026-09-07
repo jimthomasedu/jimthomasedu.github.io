@@ -105,9 +105,9 @@ Summary: This paper develops new mathematical models for wave turbulence. By usi
 
 Summary: This paper explores the generation of fine-scale turbulent structures following the interaction of large-scale near-inertial waves and balanced eddies. Three different flow decomposition techniques are used to understand energy transfers between flow components and across scales in different parameter regimes.
 
-**[23] C. P. Sanjay and J. Thomas 2026: Irreversible stirring and mixing of tracers by oceanic internal gravity waves AGU Advances,7,e2026AV002429.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST26.pdf) 
+**[23] C. P. Sanjay and J. Thomas 2026: Irreversible stirring and mixing of tracers by oceanic internal gravity waves AGU Advances, 7, e2026AV002429.** [PDF](https://github.com/jimthomasedu/jimthomasedu.github.io/raw/master/files/ST26.pdf) 
 
-Summary: Oceanic internal waves are often thought to be ineffective in stirring and mixing tracers. This paper shows that while a single plane was does not stir tracers, two or more waves can laterally stir tracers. Stirring is more efficient with increasing number of waves and the energy associated with the waves. Kinematic and dynamic models are used to demonstrate the stirring and mixing effects of internal gravity waves. 
+Summary: Oceanic internal waves are often thought to be ineffective in stirring and mixing tracers. This paper shows that while a single plane wave does not stir tracers, two or more waves can laterally stir tracers. Stirring becomes more efficient with increasing number of waves and increasing wave energy. Kinematic and dynamic models are used to demonstrate the stirring and mixing effects of internal gravity waves. 
   
 
 <!-- Non-peer reviewed publication
